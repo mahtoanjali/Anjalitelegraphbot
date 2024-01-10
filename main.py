@@ -37,11 +37,11 @@ def start_command(update: Update, _):
             [
                 InlineKeyboardButton(
                     "Developer 👨‍💻",
-                    url="https://t.me/hasibulkabir",
+                    url="https://t.me/QUEENx_GOD",
                 ),
                 InlineKeyboardButton(
                     "Source Code 📚",
-                    url="https://github.com/hasibulkabir/telegraphbot",
+                    url="https://t.me/QUEENx_GOD",
                 ),
             ],
         )
