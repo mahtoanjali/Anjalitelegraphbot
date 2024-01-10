@@ -1,8 +1,8 @@
 {
     "name": "Telegra.ph upload bot",
     "description": "You can upload photos on telegra.ph using this bot.",
-    "repository": "https://github.com/hasibulkabir/telegraphbot",
-    "logo": "https://raw.githubusercontent.com/HasibulKabir/Raw-Package/master/IMG_20200526_114905_024.jpg",
+    "repository": "https://github.com/mahtoanjali/Anjalitelegraphbot",
+    "logo": "https://te.legra.ph/file/d57a969da1ce08ab268de.jpg",
     "keywords": ["bot", "telegram", "telegra.ph"],
     "env": {
         "BOT_TOKEN": {
